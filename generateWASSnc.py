@@ -1,6 +1,3 @@
-src = '/scratch/lab/bernard/code/lambda_of_C/utility/'
-import sys
-sys.path.append(src)
 import wavespec
 from netCDF4 import Dataset
 import numpy as np
